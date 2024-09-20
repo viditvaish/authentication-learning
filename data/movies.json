@@ -1,0 +1,132 @@
+[{
+    "name":"Riddick",
+    "description":"You need the fucken description get lost from here",
+    "duration":119,
+    "ratings":6.8,
+    "totalRating":329,
+    "releaseYear":2013,
+     "releaseDate":"2013-09-04T00:00:00Z",
+     "genres":[
+        "Action",
+        "Sci-Fi",
+        "Thriller"
+     ],
+      "directors":["David Twohy"],
+      "coverImage":"Riddick-2013.jpg",
+      "actors":[
+          "Vin Diesel",
+          "Karl Urban",
+           "Katee Sackhoff"
+      ],
+       "price":50
+ },
+ {
+    "name":"Assholers Party",
+    "description":"desc2",
+    "duration":119,
+    "ratings":6.8,
+    "totalRating":329,
+    "releaseYear":2013,
+     "releaseDate":"2013-09-04T00:00:00Z",
+     "genres":[
+        "Action",
+        "Sci-Fi",
+        "Thriller"
+     ],
+      "directors":["David Twohy"],
+      "coverImage":"Riddick-2013.jpg",
+      "actors":[
+          "Vin Diesel",
+          "Karl Urban",
+           "Katee Sackhoff"
+      ],
+       "price":50
+ },
+ {
+    "name":"Chanari ki beemari aur ladki kumari",
+    "description":"desc3",
+    "duration":119,
+    "ratings":6.8,
+    "totalRating":329,
+    "releaseYear":2013,
+     "releaseDate":"2013-09-04T00:00:00Z",
+     "genres":[
+        "Action",
+        "Sci-Fi",
+        "Thriller"
+     ],
+      "directors":["David Twohy"],
+      "coverImage":"Riddick-2013.jpg",
+      "actors":[
+          "Vin Diesel",
+          "Karl Urban",
+           "Katee Sackhoff"
+      ],
+       "price":50
+ },
+ {
+    "name":"Removal of the bitches",
+    "description":"desc4",
+    "duration":119,
+    "ratings":6.8,
+    "totalRating":329,
+    "releaseYear":2013,
+     "releaseDate":"2013-09-04T00:00:00Z",
+     "genres":[
+        "Action",
+        "Sci-Fi",
+        "Thriller"
+     ],
+      "directors":["David Twohy"],
+      "coverImage":"Riddick-2013.jpg",
+      "actors":[
+          "Vin Diesel",
+          "Karl Urban",
+           "Katee Sackhoff"
+      ],
+       "price":50
+ },
+ {
+    "name":"Gadho ki sawari aur tatti bikhari",
+    "description":"desc5",
+    "duration":111,
+    "ratings":1,
+    "totalRating":729,
+    "releaseYear":2013,
+     "releaseDate":"2013-09-04T00:00:00Z",
+     "genres":[
+        "Action",
+        "Sci-Fi",
+        "Thriller"
+     ],
+      "directors":["David Twohy"],
+      "coverImage":"Riddick-2013.jpg",
+      "actors":[
+          "Vin Diesel",
+          "Karl Urban",
+           "Katee Sackhoff"
+      ],
+       "price":50
+ },
+ {
+    "name":"lundely boy",
+    "description":"desc6",
+    "duration":300,
+    "ratings":2,
+    "totalRating":729,
+    "releaseYear":2013,
+     "releaseDate":"2013-09-04T00:00:00Z",
+     "genres":[
+        "Action",
+        "Sci-Fi",
+        "Thriller"
+     ],
+      "directors":["David Twohy"],
+      "coverImage":"Riddick-2013.jpg",
+      "actors":[
+          "Vin Diesel",
+          "Karl Urban",
+           "Katee Sackhoff"
+      ],
+       "price":50
+ }]
